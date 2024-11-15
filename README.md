@@ -42,7 +42,7 @@
 </td>
 <td valign="top"  width="50%">
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**我的最新博客**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
