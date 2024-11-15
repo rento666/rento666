@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td valign="top"  width="30%">
+<td valign="center"  width="30%">
   
 - 🤖 我最喜欢的动漫：双城之战
 - 👨‍💻 我了解Golang、Node.js、Java、React、Vue、Uni APP、React Native、Unity(C#)等等...
@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td valign="top"  width="50%">
+<td valign="center"  width="50%">
 
 #### 🐍 贡献
 <picture>
@@ -40,7 +40,7 @@
 </picture>
 
 </td>
-<td valign="top"  width="50%">
+<td valign="center"  width="50%">
 
 📕 &nbsp;**我的最新博客**
 <!-- BLOG-POST-LIST:START -->
