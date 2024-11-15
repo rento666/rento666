@@ -42,7 +42,7 @@
 </td>
 <td valign="center"  width="50%">
 
-📕 &nbsp;**我的最新博客**
+📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
 <!-- BLOG-POST-LIST:START -->[GitHub 个人主页 README 美化 &amp; Star 趋势图 2024-11-14](https://caihongtu.asia/2024/github-profile/)[写博客之必读内容 2024-11-14](https://caihongtu.asia/2024/must-read-content-for-blogging/)<!-- BLOG-POST-LIST:END -->
 
 </td>
