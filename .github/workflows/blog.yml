@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://cai-hong-tu-blog.pages.dev/index.xml"
-          template: "$title $date"
+          template: "[$title $date]($url)"
           date_format: "yyyy-mm-dd"
