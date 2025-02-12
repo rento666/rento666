@@ -44,7 +44,7 @@
 <td valign="center"  width="50%">
 
 📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
-<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.asia/2025/id0399965039/">帮Id：0399965039老板调号【2025-02-03】 2025-02-03</a></div><div><a href="https://caihongtu.asia/2024/recommended-apps/">个人推荐的一些应用、APP 2024-12-08</a></div><div><a href="https://caihongtu.asia/2024/hugo-theme/">关于博客的样式改造 2024-11-21</a></div><div><a href="https://caihongtu.asia/2024/github-desktop/">移动Github Desktop之后，汉化失败的解决办法 2024-11-19</a></div><div><a href="https://caihongtu.asia/2024/outlook-smtp-oauth2-error/">Outlook邮箱的Smtp服务出现Oauth2认证失败错误 2024-11-15</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.asia/2025/%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0/">燕云十六声代肝项目以及价格 2025-02-12</a></div><div><a href="https://caihongtu.asia/2025/id0399965039/">帮Id：0399965039老板调号【2025-02-03】 2025-02-03</a></div><div><a href="https://caihongtu.asia/2024/recommended-apps/">个人推荐的一些应用、APP 2024-12-08</a></div><div><a href="https://caihongtu.asia/2024/hugo-theme/">关于博客的样式改造 2024-11-21</a></div><div><a href="https://caihongtu.asia/2024/github-desktop/">移动Github Desktop之后，汉化失败的解决办法 2024-11-19</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
