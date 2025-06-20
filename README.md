@@ -44,7 +44,7 @@
 <td valign="center"  width="50%">
 
 📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
-<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.asia/2024/recommended-apps/">个人推荐的一些应用、APP 2024-12-08</a></div><div><a href="https://caihongtu.asia/2024/hugo-theme/">关于博客的样式改造 2024-11-21</a></div><div><a href="https://caihongtu.asia/2024/github-desktop/">移动Github Desktop之后，汉化失败的解决办法 2024-11-19</a></div><div><a href="https://caihongtu.asia/2024/outlook-smtp-oauth2-error/">Outlook邮箱的Smtp服务出现Oauth2认证失败错误 2024-11-15</a></div><div><a href="https://caihongtu.asia/2024/github-profile/">GitHub 个人主页 README 美化 &amp; Star 趋势图 2024-11-14</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.asia/2025/again-blog/">重拾博客 2025-06-20</a></div><div><a href="https://caihongtu.asia/2024/recommended-apps/">个人推荐的一些应用、APP 2024-12-08</a></div><div><a href="https://caihongtu.asia/2024/hugo-theme/">关于博客的样式改造 2024-11-21</a></div><div><a href="https://caihongtu.asia/2024/github-desktop/">移动Github Desktop之后，汉化失败的解决办法 2024-11-19</a></div><div><a href="https://caihongtu.asia/2024/outlook-smtp-oauth2-error/">Outlook邮箱的Smtp服务出现Oauth2认证失败错误 2024-11-15</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
