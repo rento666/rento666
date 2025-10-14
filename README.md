@@ -44,7 +44,7 @@
 <td valign="center"  width="50%">
 
 📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
-<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.asia/2025/df-hm-sayings/">三角洲行动——人机语录 2025-08-14</a></div><div><a href="https://caihongtu.asia/2025/taro-use-tailwindcss/">Taro 使用 Tailwindcss，解决init报错 2025-07-16</a></div><div><a href="https://caihongtu.asia/2025/steam-download-location/">新版Steam下载位置（文件夹）更改 2025-07-10</a></div><div><a href="https://caihongtu.asia/2025/make-use-of-the-coze-to-make-an-ai-translation/">利用扣子空间做一个AI翻译 2025-06-20</a></div><div><a href="https://caihongtu.asia/2025/again-blog/">重拾博客 2025-06-20</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.top/2025/df-hm-sayings/">三角洲行动——人机语录 2025-08-14</a></div><div><a href="https://caihongtu.top/2025/taro-use-tailwindcss/">Taro 使用 Tailwindcss，解决init报错 2025-07-16</a></div><div><a href="https://caihongtu.top/2025/steam-download-location/">新版Steam下载位置（文件夹）更改 2025-07-10</a></div><div><a href="https://caihongtu.top/2025/make-use-of-the-coze-to-make-an-ai-translation/">利用扣子空间做一个AI翻译 2025-06-20</a></div><div><a href="https://caihongtu.top/2025/again-blog/">重拾博客 2025-06-20</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
