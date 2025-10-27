@@ -44,7 +44,7 @@
 <td valign="center"  width="50%">
 
 📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
-<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.top/2025/%E6%9C%AC%E6%96%87%E4%BB%8B%E7%BB%8D%E4%BA%86next.js%E7%9A%84%E5%85%A5%E9%97%A8%E8%B7%AF%E7%94%B1%E5%B8%83%E5%B1%80%E7%AD%89%E7%9F%A5%E8%AF%86%E9%80%82%E5%90%88%E6%9C%89%E4%B8%80%E5%AE%9Areact%E5%9F%BA%E7%A1%80%E7%9A%84%E4%BA%BA%E9%98%85%E8%AF%BB/">【01】学习Next.js框架之安装入门、路由与布局 2025-10-26</a></div><div><a href="https://caihongtu.top/2025/cwbtacwff1/">【持续更新中...】【全流程】使用React的Taro和Cloudflare Workers免费创建部署微信小程序！ 2025-10-14</a></div><div><a href="https://caihongtu.top/2025/taro-use-tailwindcss/">Taro 使用 Tailwindcss，解决init报错 2025-07-16</a></div><div><a href="https://caihongtu.top/2025/steam-download-location/">新版Steam下载位置（文件夹）更改 2025-07-10</a></div><div><a href="https://caihongtu.top/2025/make-use-of-the-coze-to-make-an-ai-translation/">利用扣子空间做一个AI翻译 2025-06-20</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.top/2025/learn-nextjs-02/">【02】学习Next.js框架之链接、导航 2025-10-27</a></div><div><a href="https://caihongtu.top/2025/learn-nextjs-01/">【01】学习Next.js框架之安装入门、路由与布局 2025-10-26</a></div><div><a href="https://caihongtu.top/2025/cwbtacwff1/">【持续更新中...】【全流程】使用React的Taro和Cloudflare Workers免费创建部署微信小程序！ 2025-10-14</a></div><div><a href="https://caihongtu.top/2025/taro-use-tailwindcss/">Taro 使用 Tailwindcss，解决init报错 2025-07-16</a></div><div><a href="https://caihongtu.top/2025/steam-download-location/">新版Steam下载位置（文件夹）更改 2025-07-10</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
