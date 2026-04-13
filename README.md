@@ -44,7 +44,7 @@
 <td valign="center"  width="50%">
 
 📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
-<!-- BLOG-POST-LIST:START --><div><a href="https://caihongtu.top/2026/analysis-of-cloudflare-free-plan/">分析Cloudflare免费计划 2026-03-09</a></div><div><a href="https://caihongtu.top/2025/douyin-emoji/">抖音表情（附带Github仓库存档） 2025-11-26</a></div><div><a href="https://caihongtu.top/2025/learn-nextjs-02/">【02】学习Next.js框架之链接、导航、进阶路由 2025-10-27</a></div><div><a href="https://caihongtu.top/2025/learn-nextjs-01/">【01】学习Next.js框架之安装入门、路由与布局 2025-10-26</a></div><div><a href="https://caihongtu.top/2025/cwbtacwff1/">【持续更新中...】【全流程】使用React的Taro和Cloudflare Workers免费创建部署微信小程序！ 2025-10-14</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href="https://blog.caihongtu.top/post/2026/day001/">日常记录之QClaw初尝试&amp;桌面整理工具推荐 2026-04-12</a></div><div><a href="https://blog.caihongtu.top/post/2026/stack/">技术栈推荐 2026-04-09</a></div><div><a href="https://blog.caihongtu.top/post/2026/glados-checkin/">利用 Cloudflare Workers 实现 Glados 自动签到 2026-04-05</a></div><div><a href="https://blog.caihongtu.top/post/2026/create-npm-package-frist/">创建第一个npm包 2026-03-29</a></div><div><a href="https://blog.caihongtu.top/post/2026/html-as-ppt-by-ai/">使用coze AI生成PPT式HTML 2026-03-25</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
