@@ -1,4 +1,8 @@
 name: Latest blog post workflow
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule: # Run workflow automatically
     - cron: '0 */2 * * *' # Runs every hour, on the hour
