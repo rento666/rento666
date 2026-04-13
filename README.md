@@ -25,13 +25,18 @@
 
 🏆 **我的 GitHub 统计信息:**
 
-![](./profile/stats.svg)
+<p align="center">
+  <img src="./profile/stats.svg" width="467" height="190">
+  <img src="./profile/top-langs.svg" width="300" height="190">
+</p>
+
+<hr/>
 
 <table>
 <tr>
 <td valign="center"  width="50%">
 
-#### 🐍 贡献
+🐍 **贡献**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rento666/rento666/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rento666/rento666/output/github-contribution-grid-snake.svg">
@@ -41,7 +46,7 @@
 </td>
 <td valign="center"  width="50%">
 
-📕 &nbsp;[**我的最新博客**](https://cai-hong-tu-blog.pages.dev/)
+📕 &nbsp;[**我的最新博客**](https://blog.caihongtu.top/)
 <!-- BLOG-POST-LIST:START --><div><a href="https://blog.caihongtu.top/post/2026/day001/">日常记录之QClaw初尝试&amp;桌面整理工具推荐 2026-04-12</a></div><div><a href="https://blog.caihongtu.top/post/2026/stack/">技术栈推荐 2026-04-09</a></div><div><a href="https://blog.caihongtu.top/post/2026/glados-checkin/">利用 Cloudflare Workers 实现 Glados 自动签到 2026-04-05</a></div><div><a href="https://blog.caihongtu.top/post/2026/create-npm-package-frist/">创建第一个npm包 2026-03-29</a></div><div><a href="https://blog.caihongtu.top/post/2026/html-as-ppt-by-ai/">使用coze AI生成PPT式HTML 2026-03-25</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
