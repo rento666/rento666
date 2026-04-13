@@ -8,11 +8,11 @@
   
 - 🤖 我最喜欢的动漫：双城之战
 - 👨‍💻 我了解Golang、Node.js、Java、React、Vue、Uni APP、React Native、Unity(C#)等等...
-- ✍️ [欢迎参观我的博客](https://cai-hong-tu-blog.pages.dev/)
+- ✍️ [欢迎参观我的博客](https://blog.caihongtu.top/)
 - 💬 保持思考
 - 📫 联系我: [邮箱联系](mailto:putongruwo@outlook.com)
 - 👏 关注我: [![](https://img.shields.io/github/followers/rento666?label=关注我&style=social)](https://github.com/rento666/)
-- 🎣 兴趣：读[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)，写[自己的博客](https://cai-hong-tu-blog.pages.dev/)，刷[Youtube](https://www.youtube.com/@caihongtu)  
+- 🎣 兴趣：读[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)，写[自己的博客](https://blog.caihongtu.top/)，刷[Youtube](https://www.youtube.com/@caihongtu)  
 **「天天开心」** ❤️
 </td>
 <td valign="center" width="100%" height="100%">
