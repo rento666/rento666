@@ -25,8 +25,8 @@
 
 🏆 **我的 GitHub 统计信息:**
 
-|![](https://github-readme-stats.vercel.app/api?username=rento666)|![我最常用的编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=rento666&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
+|![](./profile/stats.svg)|![我最常用的编程语言](./profile/top-langs.svg)|
+|![](./profile/pin-readme-tools-github-readme-stats.svg)|-|
 
 
 <table>
