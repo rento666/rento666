@@ -25,8 +25,9 @@
 
 🏆 **我的 GitHub 统计信息:**
 
-|![](./profile/stats.svg)|![我最常用的编程语言](./profile/top-langs.svg)|
-|![](./profile/pin-readme-tools-github-readme-stats.svg)|-|
+![](./profile/stats.svg)
+![我最常用的编程语言](./profile/top-langs.svg)
+![](./profile/pin-readme-tools-github-readme-stats.svg)
 
 
 <table>
