@@ -47,7 +47,7 @@
 <td valign="center"  width="50%">
 
 📕 &nbsp;[**我的最新博客**](https://blog.caihongtu.top/)
-<!-- BLOG-POST-LIST:START --><div><a href="https://blog.caihongtu.top/post/2026/day001/">日常记录之QClaw初尝试&amp;桌面整理工具推荐 2026-04-12</a></div><div><a href="https://blog.caihongtu.top/post/2026/stack/">技术栈推荐 2026-04-09</a></div><div><a href="https://blog.caihongtu.top/post/2026/glados-checkin/">利用 Cloudflare Workers 实现 Glados 自动签到 2026-04-05</a></div><div><a href="https://blog.caihongtu.top/post/2026/create-npm-package-frist/">创建第一个npm包 2026-03-29</a></div><div><a href="https://blog.caihongtu.top/post/2026/html-as-ppt-by-ai/">使用coze AI生成PPT式HTML 2026-03-25</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href="https://blog.caihongtu.top/post/2026/selfcli/">避免重复造轮子的解决方案 2026-05-16</a></div><div><a href="https://blog.caihongtu.top/post/2026/day001/">日常记录之QClaw初尝试&amp;桌面整理工具推荐 2026-04-12</a></div><div><a href="https://blog.caihongtu.top/post/2026/stack/">技术栈推荐 2026-04-09</a></div><div><a href="https://blog.caihongtu.top/post/2026/glados-checkin/">利用 Cloudflare Workers 实现 Glados 自动签到 2026-04-05</a></div><div><a href="https://blog.caihongtu.top/post/2026/create-npm-package-frist/">创建第一个npm包 2026-03-29</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
