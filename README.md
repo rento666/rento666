@@ -25,13 +25,22 @@
 
 🏆 **我的 GitHub 统计信息:**
 
-<p align="center">
-  <img src="./profile/stats.svg" width="467" height="190">
-  <img src="./profile/top-langs.svg" width="300" height="190">
-</p>
+<table>
+<tr>
+  <td>
+    <a href="https://github-stats-extended.vercel.app/api?username=rento666&show_icons=true&include_all_commits=true&theme=catppuccin_latte">
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=rento666&show_icons=true&include_all_commits=true&theme=catppuccin_latte"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=rento666&layout=compact&langs_count=6&theme=catppuccin_latte">
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=rento666&layout=compact&langs_count=6&theme=catppuccin_latte"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 <hr/>
-
 <table>
 <tr>
 <td valign="center"  width="50%">
