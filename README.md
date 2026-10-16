@@ -56,7 +56,7 @@
 <td valign="center"  width="50%">
 
 📕 &nbsp;[**我的最新博客**](https://blog.caihongtu.top/)
-<!-- BLOG-POST-LIST:START --><div><a href="https://blog.caihongtu.top/post/2026/ubuntu/">[全流程] 在笔记本上安装Ubuntu22.04 2026-08-18</a></div><div><a href="https://blog.caihongtu.top/post/2025/df-hm-sayings/">三角洲行动——人机语录 2025-08-14</a></div><div><a href="https://blog.caihongtu.top/post/2025/taro-use-tailwindcss/">Taro 使用 Tailwindcss，解决init报错 2025-07-16</a></div><div><a href="https://blog.caihongtu.top/post/2025/steam-download-location/">新版Steam下载位置（文件夹）更改 2025-07-10</a></div><div><a href="https://blog.caihongtu.top/post/2025/again-blog/">重拾博客 2025-06-20</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href="https://blog.caihongtu.top/post/2026/ubuntu/">[全流程] 在笔记本上安装Ubuntu22.04 2026-08-18</a></div><div><a href="https://blog.caihongtu.top/post/2026/selfcli/">避免重复造轮子的解决方案 2026-05-16</a></div><div><a href="https://blog.caihongtu.top/post/2026/day001/">日常记录之QClaw初尝试&amp;桌面整理工具推荐 2026-04-12</a></div><div><a href="https://blog.caihongtu.top/post/2026/stack/">技术栈推荐 2026-04-09</a></div><div><a href="https://blog.caihongtu.top/post/2026/glados-checkin/">利用 Cloudflare Workers 实现 Glados 自动签到 2026-04-05</a></div><!-- BLOG-POST-LIST:END -->
 
 </td>
 </tr>
